@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Waygone
 - 🕹️ I’m interested in making videogames :D
-- 🌱 I’m currently learning Unreal Engine and Unity
+- 🌱 I’m currently learning Unreal Engine and Web Development
 - 🎮 The games I've made so far https://waygone.itch.io/ 
